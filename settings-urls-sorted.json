@@ -290,7 +290,7 @@
         },
         "Keyboard": {
             "(root)": "prefs:root=General&path=Keyboard",
-            "Hardware Keyboard": "prefs:root=General&path=Keyboard/Hardware%20Keyboard",
+            "Hardware Keyboard": "prefs:root=General&path=Keyboard/HardwareKeyboard",
             "Keyboards": "prefs:root=General&path=Keyboard/KEYBOARDS",
             "One Handed Keyboard": "prefs:root=General&path=Keyboard/ReachableKeyboard",
             "Text Replacement": "prefs:root=General&path=Keyboard/USER_DICTIONARY"
